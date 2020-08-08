@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291430772793",
+    "firebase_url": "https://intshare.firebaseio.com",
+    "project_id": "intshare",
+    "storage_bucket": "intshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291430772793:android:1b825a651379c1d6871de8",
+        "android_client_info": {
+          "package_name": "pl.bwojcik.intshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291430772793-o79icrd96c398e2shrdp8qtmd512aslc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZmJuMbaVJ-5MREJJldmghiokSIimdzS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291430772793-o79icrd96c398e2shrdp8qtmd512aslc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
